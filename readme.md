@@ -61,15 +61,15 @@ We're also going to have a physical block party!
 **Requesting and Giving Help in a Block Party**
 
 1. Periodically check the wall to see if anyone else is facing the same block or if someone has solved it.  
-1. If you think someone may be able to help you, start by preparing the three parts of a technical question above. You can then slack the person to ask for help. _They_ will evaluate whether and how they can help you based on their time and resources. Keep reading to see some of the responses you might expect.
-1. If you don't think any classmates have faced this issue, or if you've asked a classmate and they weren't able to help, go to the teaching team!
-
-1. If someone slacks you asking for help, _you_ get to evaluate how to help them.  All of the following are 100% acceptable options:
+1. If you think someone may be able to help you, start by preparing the three parts of a technical question above. You can then slack the person to ask for help. _They_ will evaluate whether and how they can help you based on their time and resources. Keep reading to see some of the responses you might expect.  
+1. If someone slacks you asking for help, _you_ get to evaluate how to help them.  All of the following are 100% acceptable options:  
   * set a brief timeslot to meet with the person and go over the topic, and stick to the timeslot  
   * slack a resource link  
   * give a quick tip that helped you (even "check your spelling - that was the issue for me!")
   * refer the person to someone else who helped you (like a teaching team member)
-  * let the person know that you don't have time to help or your issue doesn't seem related  
+  * let the person know that you don't have time to help or your issue doesn't seem related   
+1. If you don't think any classmates have faced this issue, or if you've asked a classmate and they weren't able to help, go to the teaching team!
+
 
 ### Closing Thoughts
 
