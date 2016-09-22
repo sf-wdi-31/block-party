@@ -48,7 +48,7 @@ Whether you're asking a colleague immediate help with a problem in your code, ad
 
 ### Asynchronous Stand-ups
 
-Asynchronous stand-ups are often conducted through slack or a similar tool.  We definitely encourage you to use slack to express blocks and share tips.
+Asynchronous stand-ups are often conducted through slack or a similar tool. For instance, each team member might answer these questions on slack every Wednesday afternoon: what have I accomplished,  what am I working on now, what (if any) blocks am I facing?  We definitely encourage you to use slack to express blocks and share tips.
 
 We're also going to have a physical block party!
 
