@@ -52,11 +52,13 @@ Asynchronous stand-ups are often conducted through slack or a similar tool. For 
 
 We're also going to have a physical block party!
 
+### Independent Practice: Block Party
+
 1. Think of an issue you've solved recently or a block you're facing right now.  
 1. Write your block on the walls of the classroom, including what you want/expect to happen and what is happening instead.  (You don't need to include all the things you've tried.)  
 1. When you solve the problem, write "solved" or ":)" or a brief tip next to your block.
 
-### Requesting and Giving Help
+**Requesting and Giving Help in a Block Party**
 
 1. Periodically check the wall to see if anyone else is facing the same block or if someone has solved it.  
 1. If you think someone may be able to help you, start by preparing the three parts of a technical question above. You can then slack the person to ask for help. _They_ will evaluate whether and how they can help you based on their time and resources. Keep reading to see some of the responses you might expect.
