@@ -56,10 +56,6 @@ We're also going to have a physical block party!
 1. Write your block on the walls of the classroom, including what you want/expect to happen and what is happening instead.  (You don't need to include all the things you've tried.)  
 1. When you solve the problem, write "solved" or ":)" or a brief tip next to your block.
 
-<img src="https://cloud.githubusercontent.com/assets/3254910/18763642/2056eb3a-80c3-11e6-9b73-9dc6c6f9aa09.jpg" width="40%">
-
-<sup><a href="https://www.flickr.com/photos/billychic/6053382979/in/photostream/">"The Kids Love This!" by Billychic on Flickr</a></sup>
-
 ### Requesting and Giving Help
 
 1. Periodically check the wall to see if anyone else is facing the same block or if someone has solved it.  
