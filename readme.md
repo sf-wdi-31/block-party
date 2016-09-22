@@ -59,12 +59,20 @@ We're also going to have a physical block party!
 ### Requesting and Giving Help
 
 1. Periodically check the wall to see if anyone else is facing the same block or if someone has solved it.  
-1. If you think someone may be able to help you, start by preparing the three parts of a technical question above. You can then slack the person to ask for help. _They_ will evaluate whether and how they can help you based on their time and resources.  
+1. If you think someone may be able to help you, start by preparing the three parts of a technical question above. You can then slack the person to ask for help. _They_ will evaluate whether and how they can help you based on their time and resources. Keep reading to see some of the responses you might expect.
 1. If you don't think any classmates have faced this issue, or if you've asked a classmate and they weren't able to help, go to the teaching team!
 
 1. If someone slacks you asking for help, _you_ get to evaluate how to help them.  All of the following are 100% acceptable options:
-  * set a time to meet with the person and go over the topic  
+  * set a brief timeslot to meet with the person and go over the topic, and stick to the timeslot  
   * slack a resource link  
-  * give a quick tip that helped you (even "check your spelling!")
+  * give a quick tip that helped you (even "check your spelling - that was the issue for me!")
   * refer the person to someone else who helped you (like a teaching team member)
   * let the person know that you don't have time to help or your issue doesn't seem related  
+
+### Closing Thoughts
+
+As a web developer, you'll need to collaborate with others often. 
+
+When you're new, you'll spend a lot of time asking technical questions, so practice asking great ones!
+
+You have a few strategies now for how to deal with a situation when you can't get or give as much help as you'd like (depending on which side of the problem you're on).  Remember to be respectful and that you can look for other resources. At GA, a teaching team member is a great next person to go to. If you consistently need more help than you're getting in a work environment, set a meeting with your manager to go over strategies. 
