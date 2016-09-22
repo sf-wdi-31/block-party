@@ -77,4 +77,4 @@ As a web developer, you'll need to collaborate with others often.
 
 When you're new, you'll spend a lot of time asking technical questions, so practice asking great ones!
 
-You have a few strategies now for how to deal with a situation when you can't get or give as much help as you'd like (depending on which side of the problem you're on).  Remember to be respectful and that you can look for other resources. At GA, a teaching team member is a great next person to go to. If you consistently need more help than you're getting in a work environment, set a meeting with your manager to go over strategies. 
+You have a few strategies now for how to deal with a situation when you can't *meet with someone* to get or give as much help as you'd like (depending on which side of the problem you're on).  Remember to be respectful and that you can look for other resources. At GA, a teaching team member is a great next person to go to. If you consistently need more help than you're getting in a work environment, set a meeting with your manager to go over strategies. 
